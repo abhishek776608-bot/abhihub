@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063415029840",
+    "project_id": "abhihub-5b0c7",
+    "storage_bucket": "abhihub-5b0c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063415029840:android:66af685c407de9e2cb7155",
+        "android_client_info": {
+          "package_name": "com.abhihub.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhS7q6fyE3ECm_qIdgzgTZUNDQptGfvXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
